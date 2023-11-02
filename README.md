@@ -1,4 +1,6 @@
 # Libft
+![Build](https://github.com/San-tito/Libft/actions/workflows/c.yml/badge.svg)
+
 The Libft project involves creating a C library containing a wide range of general-purpose functions to support your programs. These functions emulate the behavior of standard C library functions but are prefixed with "ft_".
 # Usage
 
