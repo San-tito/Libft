@@ -225,7 +225,7 @@ libft.a
 ## 🛣 Roadmap
 
 > - [X] `ℹ️  Task 1: Implement list and node functions`
-> - [ ] `ℹ️  Task 2: Implement tests`
+> - [ ] `ℹ️  Task 2: Improve the bonus relink`
 > - [ ] `ℹ️ ...`
 
 
