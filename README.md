@@ -22,7 +22,7 @@
 - [⚙️ Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
-    - [🤖 Running Libft](#-running-Libft)
+    - [🤖 Use Libft](#-use-Libft)
     - [🧪 Tests](#-tests)
 - [🛣 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
@@ -190,6 +190,8 @@ The `Libft` project involves creating a C library containing a wide range of gen
 
 ---
 
+## 🚀 Getting Started
+
 ### 🔧 Installation
 
 1. Clone the Libft repository:
@@ -208,7 +210,7 @@ make
 ```
 
 ### 🤖 Use Libft
-Once the library is successfully compiled, you can use it in your projects. Link the libft.a file to your program, and include the libft.h header in your source files.
+Once the library is successfully compiled, you can use it in your projects. Link the `libft.a` file to your program, and include the `libft.h` header in your source files.
 To compile your program with Libft, use:
 ```sh
 gcc -o my_program my_program.c -L . -lft
