@@ -150,7 +150,7 @@ The `Libft` project involves creating a C library containing a wide range of gen
 | [ft_isalnum.c](https://github.com/San-tito/Libft/blob/main/ft_isalnum.c)                       | Check if a character is alphanumeric |
 | [ft_calloc.c](https://github.com/San-tito/Libft/blob/main/ft_calloc.c)                         | Allocate and zero-initialize array |
 | [ft_bzero.c](https://github.com/San-tito/Libft/blob/main/ft_bzero.c)                           | Set a byte string to zero |
-| [ft_atoi.c](https://github.com/San-tito/Libft/blob/main/ft_atoi.c)                             | ► INSERT-TEXT |
+| [ft_atoi.c](https://github.com/San-tito/Libft/blob/main/ft_atoi.c)                             | Convert a string to an integer |
 
 </details>
 
